@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: auto;
+    width: 100%;
+    height: auto;
+}
+body{
+    overflow: hidden;
+    height: 100vh;
+    background-image: url("/assets/images/loginBg.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+}
+.h-inherit{
+    height: inherit;
+}
+.rounded-right{
+    border-radius: 0 1em 1em 0;
+}
+.bg-glass{
+background: rgba(255, 255, 255, 0.39) !important;
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(6.9px);
+-webkit-backdrop-filter: blur(6.9px);
+
+}
+.lblView{
+    font-weight: 500;
+    font-size: 0.85rem;
+}

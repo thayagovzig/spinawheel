@@ -1,0 +1,24 @@
+{
+  "name": "spinwheel",
+  "version": "1.0.0",
+  "description": "basic spein wheel project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KavinSelvarasu/fb_spinwheel.git"
+  },
+  "author": "kavin,venkat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KavinSelvarasu/fb_spinwheel/issues"
+  },
+  "homepage": "https://github.com/KavinSelvarasu/fb_spinwheel#readme",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "bootstrap": "^5.2.3",
+    "bootstrap-icons": "^1.10.3"
+  }
+}
